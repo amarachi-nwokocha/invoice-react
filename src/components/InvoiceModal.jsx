@@ -1,7 +1,7 @@
 "use client";
 
 import { IoClose } from "react-icons/io5";
-import Activity from "./Activity";
+import Activity from "./Activity.jsx";
 import { doc, updateDoc } from "firebase/firestore";
 import { db } from "../lib/firebase";
 import { useState } from "react";
