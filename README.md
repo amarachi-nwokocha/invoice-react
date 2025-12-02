@@ -40,8 +40,6 @@ PDF & Actions
 
 Download Invoice as PDF (UI ready).
 
-Send Invoice (UI ready).
-
 More options menu.
 
 | Category     | Tools                                                 |
