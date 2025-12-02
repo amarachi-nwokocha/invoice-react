@@ -1,0 +1,1177 @@
+[
+ {"id": 1,
+  "sender": {
+    "name": "Fabulous Enterprise",
+    "phone": "+386 089 271 3115",
+    "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+    "email": "info@fabulousenterprise.co"
+  },
+  "customer": {
+    "name": "Olaniyi Ojo Adewale",
+    "phone": "+386 089 271 3115",
+    "email": "olaniyi.ojo.adewale@example.com"
+  },
+  "invoice_details": {
+    "invoice_no": "1029302390",
+    "issue_date": "April 28th, 2023",
+    "due_date": "June 07th, 2023",
+    "billing_currency": "USD ($)",
+    "status": "PENDING PAYMENT"   
+  },
+  "items": [
+    {
+      "description": "Consulting",
+      "quantity": 11,
+      "unit_price": 2065,
+      "total_price": 22715
+    },
+    {
+      "description": "Email Marketing",
+      "quantity": 12,
+      "unit_price": 2279,
+      "total_price": 27348
+    },
+    {
+      "description": "Email Marketing",
+      "quantity": 1,
+      "unit_price": 2283,
+      "total_price": 2283
+    },
+    {
+      "description": "Social Media Ads",
+      "quantity": 8,
+      "unit_price": 3518,
+      "total_price": 28144
+    }
+  ],
+  "subtotal": 80490
+},
+  {"id": 2,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Grace Johnson",
+      "phone": "+386 089 271 3116",
+      "email": "grace.johnson@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302391",
+      "issue_date": "April 21th, 2023",
+      "due_date": "May 31th, 2023",
+      "billing_currency": "USD ($)",
+       "status": "PAID"  
+    },
+    "items": [
+      {
+        "description": "Social Media Ads",
+        "quantity": 9,
+        "unit_price": 3286,
+        "total_price": 29574
+      },
+      {
+        "description": "SEO Optimization",
+        "quantity": 3,
+        "unit_price": 4336,
+        "total_price": 13008
+      },
+      {
+        "description": "Email Marketing",
+        "quantity": 7,
+        "unit_price": 504,
+        "total_price": 3528
+      }
+    ],
+    "subtotal": 46110
+  },
+  {"id": 3,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Michael Smith",
+      "phone": "+386 089 271 3117",
+      "email": "michael.smith@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302392",
+      "issue_date": "May 27th, 2023",
+      "due_date": "July 06th, 2023",
+      "billing_currency": "USD ($)",
+       "status": "DRAFT"  
+    },
+    "items": [
+      {
+        "description": "App Development",
+        "quantity": 1,
+        "unit_price": 1294,
+        "total_price": 1294
+      },
+      {
+        "description": "SEO Optimization",
+        "quantity": 3,
+        "unit_price": 4609,
+        "total_price": 13827
+      }
+    ],
+    "subtotal": 15121
+  },
+  {"id": 4,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Sophia Lee",
+      "phone": "+386 089 271 3118",
+      "email": "sophia.lee@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302393",
+      "issue_date": "May 24th, 2023",
+      "due_date": "July 03th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "Social Media Ads",
+        "quantity": 2,
+        "unit_price": 3484,
+        "total_price": 6968
+      },
+      {
+        "description": "Email Marketing",
+        "quantity": 11,
+        "unit_price": 4230,
+        "total_price": 46530
+      },
+      {
+        "description": "Social Media Ads",
+        "quantity": 9,
+        "unit_price": 3784,
+        "total_price": 34056
+      }
+    ],
+    "subtotal": 87554
+  },
+  {"id": 5,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "David Brown",
+      "phone": "+386 089 271 3119",
+      "email": "david.brown@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302394",
+      "issue_date": "April 12th, 2023",
+      "due_date": "May 22th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "DRAFT"  
+    },
+    "items": [
+      {
+        "description": "Graphic Design",
+        "quantity": 7,
+        "unit_price": 3414,
+        "total_price": 23898
+      },
+      {
+        "description": "Website Development",
+        "quantity": 6,
+        "unit_price": 4974,
+        "total_price": 29844
+      }
+    ],
+    "subtotal": 53742
+  },
+  {"id": 6,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Emma Wilson",
+      "phone": "+386 089 271 3120",
+      "email": "emma.wilson@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302395",
+      "issue_date": "May 18th, 2023",
+      "due_date": "June 27th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "OVERDUE"  
+    },
+    "items": [
+      {
+        "description": "Consulting",
+        "quantity": 2,
+        "unit_price": 3970,
+        "total_price": 7940
+      },
+      {
+        "description": "Consulting",
+        "quantity": 1,
+        "unit_price": 4453,
+        "total_price": 4453
+      }
+    ],
+    "subtotal": 12393
+  },
+  {"id": 7,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Liam Jones",
+      "phone": "+386 089 271 3121",
+      "email": "liam.jones@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302396",
+      "issue_date": "May 25th, 2023",
+      "due_date": "July 04th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "Video Looping Effect",
+        "quantity": 2,
+        "unit_price": 2132,
+        "total_price": 4264
+      },
+      {
+        "description": "Product Photography",
+        "quantity": 2,
+        "unit_price": 3956,
+        "total_price": 7912
+      },
+      {
+        "description": "Graphic Design",
+        "quantity": 2,
+        "unit_price": 1528,
+        "total_price": 3056
+      },
+      {
+        "description": "Product Photography",
+        "quantity": 9,
+        "unit_price": 3675,
+        "total_price": 33075
+      }
+    ],
+    "subtotal": 48307
+  },
+  {"id": 8,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Noah Davis",
+      "phone": "+386 089 271 3122",
+      "email": "noah.davis@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302397",
+      "issue_date": "May 07th, 2023",
+      "due_date": "June 16th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "DRAFT"  
+    },
+    "items": [
+      {
+        "description": "UI/UX Design",
+        "quantity": 8,
+        "unit_price": 2290,
+        "total_price": 18320
+      },
+      {
+        "description": "Product Photography",
+        "quantity": 5,
+        "unit_price": 4529,
+        "total_price": 22645
+      }
+    ],
+    "subtotal": 40965
+  },
+  {"id": 9,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Ava Taylor",
+      "phone": "+386 089 271 3123",
+      "email": "ava.taylor@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302398",
+      "issue_date": "April 18th, 2023",
+      "due_date": "May 28th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "App Development",
+        "quantity": 1,
+        "unit_price": 4859,
+        "total_price": 4859
+      },
+      {
+        "description": "UI/UX Design",
+        "quantity": 1,
+        "unit_price": 4390,
+        "total_price": 4390
+      },
+      {
+        "description": "Email Marketing",
+        "quantity": 9,
+        "unit_price": 591,
+        "total_price": 5319
+      }
+    ],
+    "subtotal": 14568
+  },
+  {"id": 10,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Mason White",
+      "phone": "+386 089 271 3124",
+      "email": "mason.white@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302399",
+      "issue_date": "April 17th, 2023",
+      "due_date": "May 27th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PAID"  
+    },
+    "items": [
+      {
+        "description": "Product Photography",
+        "quantity": 6,
+        "unit_price": 3177,
+        "total_price": 19062
+      },
+      {
+        "description": "Social Media Ads",
+        "quantity": 4,
+        "unit_price": 1035,
+        "total_price": 4140
+      }
+    ],
+    "subtotal": 23202
+  },
+  {"id": 11,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Isabella Martin",
+      "phone": "+386 089 271 3125",
+      "email": "isabella.martin@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302400",
+      "issue_date": "April 08th, 2023",
+      "due_date": "May 18th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "DRAFT"  
+    },
+    "items": [
+      {
+        "description": "Product Photography",
+        "quantity": 10,
+        "unit_price": 3506,
+        "total_price": 35060
+      },
+      {
+        "description": "Consulting",
+        "quantity": 2,
+        "unit_price": 4610,
+        "total_price": 9220
+      },
+      {
+        "description": "Consulting",
+        "quantity": 3,
+        "unit_price": 398,
+        "total_price": 1194
+      }
+    ],
+    "subtotal": 45474
+  },
+  {"id": 12,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Ethan Thompson",
+      "phone": "+386 089 271 3126",
+      "email": "ethan.thompson@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302401",
+      "issue_date": "May 26th, 2023",
+      "due_date": "July 05th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PAID"  
+    },
+    "items": [
+      {
+        "description": "SEO Optimization",
+        "quantity": 11,
+        "unit_price": 2924,
+        "total_price": 32164
+      },
+      {
+        "description": "Social Media Ads",
+        "quantity": 10,
+        "unit_price": 1559,
+        "total_price": 15590
+      },
+      {
+        "description": "Consulting",
+        "quantity": 12,
+        "unit_price": 3524,
+        "total_price": 42288
+      }
+    ],
+    "subtotal": 90042
+  },
+  {"id": 13,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Mia Anderson",
+      "phone": "+386 089 271 3127",
+      "email": "mia.anderson@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302402",
+      "issue_date": "May 23th, 2023",
+      "due_date": "July 02th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "OVERDUE"  
+    },
+    "items": [
+      {
+        "description": "Graphic Design",
+        "quantity": 9,
+        "unit_price": 2466,
+        "total_price": 22194
+      },
+      {
+        "description": "App Development",
+        "quantity": 6,
+        "unit_price": 3615,
+        "total_price": 21690
+      }
+    ],
+    "subtotal": 43884
+  },
+  {"id": 14,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Lucas Thomas",
+      "phone": "+386 089 271 3128",
+      "email": "lucas.thomas@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302403",
+      "issue_date": "May 04th, 2023",
+      "due_date": "June 13th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "DRAFT"  
+    },
+    "items": [
+      {
+        "description": "Product Photography",
+        "quantity": 4,
+        "unit_price": 252,
+        "total_price": 1008
+      },
+      {
+        "description": "Graphic Design",
+        "quantity": 1,
+        "unit_price": 596,
+        "total_price": 596
+      },
+      {
+        "description": "Social Media Ads",
+        "quantity": 10,
+        "unit_price": 2370,
+        "total_price": 23700
+      },
+      {
+        "description": "SEO Optimization",
+        "quantity": 10,
+        "unit_price": 2214,
+        "total_price": 22140
+      }
+    ],
+    "subtotal": 47444
+  },
+  {"id": 15,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Charlotte Jackson",
+      "phone": "+386 089 271 3129",
+      "email": "charlotte.jackson@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302404",
+      "issue_date": "May 23th, 2023",
+      "due_date": "July 02th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "Website Development",
+        "quantity": 2,
+        "unit_price": 3265,
+        "total_price": 6530
+      },
+      {
+        "description": "UI/UX Design",
+        "quantity": 6,
+        "unit_price": 2314,
+        "total_price": 13884
+      }
+    ],
+    "subtotal": 20414
+  },
+  {"id": 16,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Amara Nwokocha",
+      "phone": "+386 089 271 3130",
+      "email": "amara.nwokocha@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302405",
+      "issue_date": "April 05th, 2023",
+      "due_date": "May 15th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PAID"  
+    },
+    "items": [
+      {
+        "description": "App Development",
+        "quantity": 3,
+        "unit_price": 4745,
+        "total_price": 14235
+      },
+      {
+        "description": "Product Photography",
+        "quantity": 7,
+        "unit_price": 789,
+        "total_price": 5523
+      }
+    ],
+    "subtotal": 19758
+  },
+  {"id": 17,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Jacob Harris",
+      "phone": "+386 089 271 3131",
+      "email": "jacob.harris@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302406",
+      "issue_date": "April 03th, 2023",
+      "due_date": "May 13th, 2023",
+      "billing_currency": "USD ($)",      "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "Email Marketing",
+        "quantity": 4,
+        "unit_price": 1290,
+        "total_price": 5160
+      },
+      {
+        "description": "Website Development",
+        "quantity": 9,
+        "unit_price": 3955,
+        "total_price": 35595
+      }
+    ],
+    "subtotal": 40755
+  },
+  {"id": 18,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Harper Lewis",
+      "phone": "+386 089 271 3132",
+      "email": "harper.lewis@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302407",
+      "issue_date": "April 02th, 2023",
+      "due_date": "May 12th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PAID"  
+    },
+    "items": [
+      {
+        "description": "App Development",
+        "quantity": 1,
+        "unit_price": 1083,
+        "total_price": 1083
+      },
+      {
+        "description": "Product Photography",
+        "quantity": 9,
+        "unit_price": 2711,
+        "total_price": 24399
+      }
+    ],
+    "subtotal": 25482
+  },
+  {"id": 19,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Logan Walker",
+      "phone": "+386 089 271 3133",
+      "email": "logan.walker@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302408",
+      "issue_date": "May 18th, 2023",
+      "due_date": "June 27th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "SEO Optimization",
+        "quantity": 5,
+        "unit_price": 1533,
+        "total_price": 7665
+      },
+      {
+        "description": "Graphic Design",
+        "quantity": 10,
+        "unit_price": 2903,
+        "total_price": 29030
+      },
+      {
+        "description": "App Development",
+        "quantity": 12,
+        "unit_price": 2922,
+        "total_price": 35064
+      }
+    ],
+    "subtotal": 71759
+  },
+  {"id": 20,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Ella Hall",
+      "phone": "+386 089 271 3134",
+      "email": "ella.hall@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302409",
+      "issue_date": "April 10th, 2023",
+      "due_date": "May 20th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "Social Media Ads",
+        "quantity": 4,
+        "unit_price": 3650,
+        "total_price": 14600
+      },
+      {
+        "description": "Product Photography",
+        "quantity": 8,
+        "unit_price": 4794,
+        "total_price": 38352
+      },
+      {
+        "description": "SEO Optimization",
+        "quantity": 5,
+        "unit_price": 2526,
+        "total_price": 12630
+      }
+    ],
+    "subtotal": 65582
+  },
+  {"id": 21,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Benjamin Allen",
+      "phone": "+386 089 271 3135",
+      "email": "benjamin.allen@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302410",
+      "issue_date": "May 09th, 2023",
+      "due_date": "June 18th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "Consulting",
+        "quantity": 1,
+        "unit_price": 1589,
+        "total_price": 1589
+      },
+      {
+        "description": "Product Photography",
+        "quantity": 7,
+        "unit_price": 2675,
+        "total_price": 18725
+      },
+      {
+        "description": "Consulting",
+        "quantity": 12,
+        "unit_price": 2272,
+        "total_price": 27264
+      }
+    ],
+    "subtotal": 47578
+  },
+  {"id": 22,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Lily Young",
+      "phone": "+386 089 271 3136",
+      "email": "lily.young@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302411",
+      "issue_date": "May 05th, 2023",
+      "due_date": "June 14th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "OVERDUE"  
+    },
+    "items": [
+      {
+        "description": "Consulting",
+        "quantity": 12,
+        "unit_price": 2362,
+        "total_price": 28344
+      },
+      {
+        "description": "Graphic Design",
+        "quantity": 4,
+        "unit_price": 4456,
+        "total_price": 17824
+      }
+    ],
+    "subtotal": 46168
+  },
+  {"id": 23,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "James King",
+      "phone": "+386 089 271 3137",
+      "email": "james.king@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302412",
+      "issue_date": "May 19th, 2023",
+      "due_date": "June 28th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "Video Looping Effect",
+        "quantity": 8,
+        "unit_price": 2253,
+        "total_price": 18024
+      },
+      {
+        "description": "Consulting",
+        "quantity": 9,
+        "unit_price": 2793,
+        "total_price": 25137
+      },
+      {
+        "description": "Product Photography",
+        "quantity": 1,
+        "unit_price": 3290,
+        "total_price": 3290
+      },
+      {
+        "description": "Social Media Ads",
+        "quantity": 11,
+        "unit_price": 453,
+        "total_price": 4983
+      }
+    ],
+    "subtotal": 51434
+  },
+  {"id": 24,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Zoe Scott",
+      "phone": "+386 089 271 3138",
+      "email": "zoe.scott@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302413",
+      "issue_date": "May 15th, 2023",
+      "due_date": "June 24th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PAID"  
+    },
+    "items": [
+      {
+        "description": "Email Marketing",
+        "quantity": 8,
+        "unit_price": 2681,
+        "total_price": 21448
+      },
+      {
+        "description": "Video Looping Effect",
+        "quantity": 11,
+        "unit_price": 3844,
+        "total_price": 42284
+      }
+    ],
+    "subtotal": 63732
+  },
+  {"id": 25,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Alexander Green",
+      "phone": "+386 089 271 3139",
+      "email": "alexander.green@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302414",
+      "issue_date": "May 27th, 2023",
+      "due_date": "July 06th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "DRAFT"  
+    },
+    "items": [
+      {
+        "description": "UI/UX Design",
+        "quantity": 12,
+        "unit_price": 933,
+        "total_price": 11196
+      },
+      {
+        "description": "Consulting",
+        "quantity": 3,
+        "unit_price": 1364,
+        "total_price": 4092
+      }
+    ],
+    "subtotal": 15288
+  },
+  {"id": 26,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Chloe Adams",
+      "phone": "+386 089 271 3140",
+      "email": "chloe.adams@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302415",
+      "issue_date": "April 18th, 2023",
+      "due_date": "May 28th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PENDING PAYMENT"  
+    },
+    "items": [
+      {
+        "description": "UI/UX Design",
+        "quantity": 8,
+        "unit_price": 1337,
+        "total_price": 10696
+      },
+      {
+        "description": "Product Photography",
+        "quantity": 1,
+        "unit_price": 338,
+        "total_price": 338
+      }
+    ],
+    "subtotal": 11034
+  },
+  {"id": 27,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "William Baker",
+      "phone": "+386 089 271 3141",
+      "email": "william.baker@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302416",
+      "issue_date": "April 14th, 2023",
+      "due_date": "May 24th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PAID"  
+    },
+    "items": [
+      {
+        "description": "Consulting",
+        "quantity": 6,
+        "unit_price": 3169,
+        "total_price": 19014
+      },
+      {
+        "description": "UI/UX Design",
+        "quantity": 9,
+        "unit_price": 4138,
+        "total_price": 37242
+      },
+      {
+        "description": "Social Media Ads",
+        "quantity": 9,
+        "unit_price": 1939,
+        "total_price": 17451
+      }
+    ],
+    "subtotal": 73707
+  },
+  {"id": 28,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Sofia Nelson",
+      "phone": "+386 089 271 3142",
+      "email": "sofia.nelson@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302417",
+      "issue_date": "May 18th, 2023",
+      "due_date": "June 27th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "OVERDUE"  
+    },
+    "items": [
+      {
+        "description": "Email Marketing",
+        "quantity": 1,
+        "unit_price": 4936,
+        "total_price": 4936
+      },
+      {
+        "description": "Website Development",
+        "quantity": 7,
+        "unit_price": 949,
+        "total_price": 6643
+      },
+      {
+        "description": "Website Development",
+        "quantity": 8,
+        "unit_price": 4236,
+        "total_price": 33888
+      },
+      {
+        "description": "Graphic Design",
+        "quantity": 3,
+        "unit_price": 394,
+        "total_price": 1182
+      }
+    ],
+    "subtotal": 46649
+  },
+  {"id": 29,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Henry Carter",
+      "phone": "+386 089 271 3143",
+      "email": "henry.carter@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302418",
+      "issue_date": "May 01th, 2023",
+      "due_date": "June 10th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PAID"  
+    },
+    "items": [
+      {
+        "description": "Graphic Design",
+        "quantity": 9,
+        "unit_price": 673,
+        "total_price": 6057
+      },
+      {
+        "description": "SEO Optimization",
+        "quantity": 3,
+        "unit_price": 2397,
+        "total_price": 7191
+      },
+      {
+        "description": "SEO Optimization",
+        "quantity": 5,
+        "unit_price": 2966,
+        "total_price": 14830
+      }
+    ],
+    "subtotal": 28078
+  },
+  {"id": 30,
+    "sender": {
+      "name": "Fabulous Enterprise",
+      "phone": "+386 089 271 3115",
+      "address": "1331 Hart Ridge Road 48436 Gaines, MI",
+      "email": "info@fabulousenterprise.co"
+    },
+    "customer": {
+      "name": "Madison Mitchell",
+      "phone": "+386 089 271 3144",
+      "email": "madison.mitchell@example.com"
+    },
+    "invoice_details": {
+      "invoice_no": "1029302419",
+      "issue_date": "April 04th, 2023",
+      "due_date": "May 14th, 2023",
+      "billing_currency": "USD ($)",
+            "status": "PAID"  
+    },
+    "items": [
+      {
+        "description": "UI/UX Design",
+        "quantity": 2,
+        "unit_price": 3698,
+        "total_price": 7396
+      },
+      {
+        "description": "Email Marketing",
+        "quantity": 6,
+        "unit_price": 1702,
+        "total_price": 10212
+      },
+      {
+        "description": "Social Media Ads",
+        "quantity": 12,
+        "unit_price": 3355,
+        "total_price": 40260
+      }
+    ],
+    "subtotal": 57868
+  }
+]
