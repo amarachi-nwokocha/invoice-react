@@ -4,6 +4,12 @@
 
 /* Regular */
 /* Light */
+@layer base {
+  html, body {
+    font-family: "NeueHaasDisplayBlack", sans-serif;
+     font-weight: 300;
+  }
+}
 @font-face {
   font-family: "NeueHaasDisplayBlack";
   src: url("/fonts/NeueHaasDisplayBlack/NeueHaasDisplayLight.ttf") format("truetype");
